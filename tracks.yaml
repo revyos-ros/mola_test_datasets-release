@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/mola_test_datasets-release.git
 tracks:
   humble:
     actions:
